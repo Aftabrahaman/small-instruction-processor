@@ -3,6 +3,14 @@
 
 This project implements a small instruction processor using Verilog and SystemVerilog. The processor is designed to execute a set of basic instructions and is intended for educational purposes to understand the fundamentals of processor design.
 
+![image](https://github.com/user-attachments/assets/44b33280-105d-49b1-8b91-4554622c409c)
+
+
+
+# Small Instruction Processor
+
+This project implements a small instruction processor using Verilog and SystemVerilog. The processor is designed to execute a set of basic instructions and is intended for educational purposes to understand the fundamentals of processor design.
+
 # Diagram ----------------------------------
 
 https://github.com/user-attachments/assets/f44816a1-0d43-4adf-9f38-a6cf97a528f5
